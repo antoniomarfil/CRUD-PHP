@@ -1,0 +1,155 @@
+header {
+    padding: 100px 10px 65px 100px;
+    margin: 00px 100px 10px 140px;
+    background: url("../imgs/bg.jpg");
+    border-radius: 20px;
+    background: transparent;
+    
+}
+
+body {
+    width: 90%;
+    margin: 0 auto;
+    min-width: 600px;
+    max-width: 2000px;
+    background: url("../imgs/fotoMec03.png");
+    text-align: center;
+}
+
+.form-control{
+    width: 35%;
+    text-align: initial;
+    margin: auto;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 320px;
+    
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+   
+}
+
+nav a {
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    border: solid rgb(0, 0, 0);
+    border-radius: 8px;
+    background: url("../imgs/bg.jpg");
+}
+
+nav a:hover {
+    color: #0099ff;
+    text-decoration: underline;
+}
+
+.container h2, h3, h4, label, table{
+    color:rgb(221, 215, 215);
+}
+
+.input-home{
+    width: 30%;
+}
+
+#semAcesso{
+    font-weight: bolder;
+    color: red;
+    text-align: center;
+}
+
+#abc {
+    width: 900px;
+    border: solid black;
+    border-radius: 20px;
+    padding: 50px;
+    background: url("../imgs/bg.jpg");
+    margin-bottom: 15px;
+    padding-top: 40px;
+}
+
+#image {
+    position: relative;
+    width: 180px;
+    right: 30%;
+    opacity: 1;
+    
+}
+
+#mec {
+    margin-top: -180px;
+    padding: 5px;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+    background: url("../imgs/bg.jpg");
+    
+}
+
+.alinha-subtitle{
+    text-align:center;
+}
+
+#proff th{
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(61, 206, 104);
+}
+
+#title-servicos th{
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #0099ff;
+}
+
+.fotoContato {
+    width: 180px;
+    border-radius: 20px;
+}
+
+#table-contato {
+    text-align: center;
+}
+
+.nome-servicos td{
+    color: rgb(252, 221, 143);
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+#table-servicos td{
+    border:none;
+}
+
+.table-nomes{
+    color: rgb(61, 206, 104);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.fotoLinkedin {
+    width: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
